@@ -17,7 +17,6 @@ Our mission extends to enhancing employee happiness and well-being through data-
 - [Hypotheses](#hypotheses)
 - [Results](#results)
 - [Conclusion](#conclusion)
-- [License](#license)
 
 ## Introduction
 
